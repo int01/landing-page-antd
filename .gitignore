@@ -5,7 +5,7 @@
 .idea
 
 # production
-/dist/
+# /dist/
 .mfsu-production
 
 
